@@ -27,7 +27,7 @@ Apasionado por la programación, el desarrollo de software y la tecnología 🚀
   <li>Bases de Datos</li>
 </ul>
 
-<h2>🚀 Proyectos</h2>
+<h2> <Proyectos</h2>
 
 <ul>
   <li><b>ChronaFix</b> - Sistema de gestión de citas para consultorio quiropráctico.</li>
@@ -35,16 +35,17 @@ Apasionado por la programación, el desarrollo de software y la tecnología 🚀
   <li><b>Neuro Gomi Young Roots</b> - Proyecto emprendedor de gomitas funcionales.</li>
 </ul>
 
-<h2>📈 Estadísticas GitHub</h2>
+<h2> Estadísticas GitHub</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true" />
 </p>
 
-<h2>📫 Contacto</h2>
+<h2> Contacto</h2>
 
 <p>
-✉️ Correo: tu_correo@ejemplo.com
+ Correo: yidanaaronmartinezruiz@gmail.com
+  Teléfono: 5613040509
 </p>
 
 <hr>
