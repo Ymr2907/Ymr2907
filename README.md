@@ -100,13 +100,3 @@ Proyecto emprendedor de gomitas funcionales elaboradas con ingredientes naturale
 # 📫 Contacto
 
 📧 **yidanaaronmartinezruiz@gmail.com**
-
----
-
-<p align="center">
-  <img src="https://readme-jokes.vercel.app/api">
-</p>
-
-<h3 align="center">
-🚀 Code • Learn • Build • Repeat
-</h3>
