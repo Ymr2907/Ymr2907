@@ -1,16 +1,54 @@
-## Hi there 👋
+<h1 align="center">¡Hola! 👋 Soy Yidan</h1>
 
-<!--
-**Ymr2907/Ymr2907** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+Estudiante de Ingeniería en Sistemas 💻 <br>
+Apasionado por la programación, el desarrollo de software y la tecnología 🚀
+</p>
 
-Here are some ideas to get you started:
+<hr>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>🛠 Tecnologías que uso</h2>
+
+<p>
+🔹 Java <br>
+🔹 MySQL <br>
+🔹 PostgreSQL <br>
+🔹 HTML <br>
+🔹 CSS <br>
+🔹 Git & GitHub
+</p>
+
+<h2>📚 Actualmente aprendiendo</h2>
+
+<ul>
+  <li>Programación Orientada a Objetos</li>
+  <li>Principios SOLID</li>
+  <li>Desarrollo de Software</li>
+  <li>Bases de Datos</li>
+</ul>
+
+<h2>🚀 Proyectos</h2>
+
+<ul>
+  <li><b>ChronaFix</b> - Sistema de gestión de citas para consultorio quiropráctico.</li>
+  <li><b>Black Bank</b> - Simulador de cajero automático desarrollado en Java.</li>
+  <li><b>Neuro Gomi Young Roots</b> - Proyecto emprendedor de gomitas funcionales.</li>
+</ul>
+
+<h2>📈 Estadísticas GitHub</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true" />
+</p>
+
+<h2>📫 Contacto</h2>
+
+<p>
+✉️ Correo: tu_correo@ejemplo.com
+</p>
+
+<hr>
+
+<p align="center">
+⭐ Gracias por visitar mi perfil ⭐
+</p>
